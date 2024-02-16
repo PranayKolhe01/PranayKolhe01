@@ -1,23 +1,29 @@
+<img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="" />
+
 <h1 align="center">Hi 👋, I'm Pranay Kolhe</h1>
-<h3 align="center">A Passionate Web Developer.</h3>
+<div display="flex">
+<h3 align="center">Aspiring Web Developer</h3> 
+  </div>
+  <ul >
+  <li>I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.</li>
+<li>I am skilled in HTML, CSS, Javascript,Reactjs,PHP. I am good in data structure and algorithms.</li>
+<li>I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</li>
+</ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaykolhe01&label=Profile%20views&color=0e75b6&style=flat" alt="pranaykolhe01" /> </p>
+   <img src="https://camo.githubusercontent.com/311f7b80e2ce3871fe6a2f0cc420cff38d8ad1b91666c6d8289c5073b3e5306d/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3233266475726174696f6e3d333030302670617573653d35303026636f6c6f723d334345304637267643656e7465723d747275652677696474683d363030266c696e65733d313530302532422b486f7572732b6f662b436f64696e672b457870657269656e63653b446174612b5374727563747572652b616e642b416c676f726974686d3b4d45524e2b537461636b2b5765622b446576656c6f7065722b46726f6d2b496e6469613b46756c6c2b537461636b2b5765622b446576656c6f7065722b46726f6d2b496e646961" alt="" />
+    
+  
+  </div>
+   <img src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966" alt="" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranaykolhe01" alt="pranaykolhe01" /></a> </p>
+ <div>
+    <ul>
+      <li>🔭 I’m currently working on Frontend & Backend </li>
+      <li> I’m looking to collaborate on <a href="#">LinkedIn</a>  & <a href="#">Github</a>  </li>
+      <li>⚡  Have a look at my <a href="#">Portfolio</a> </li>
+    </ul>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranay kolhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay kolhe" height="30" width="40" /></a>
-<a href="https://instagram.com/_pranaykolhe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pranaykolhe_" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaykolhe01&show_icons=true&locale=en&layout=compact" alt="pranaykolhe01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaykolhe01&show_icons=true&locale=en" alt="pranaykolhe01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranaykolhe01&" alt="pranaykolhe01" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
