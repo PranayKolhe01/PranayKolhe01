@@ -26,7 +26,7 @@
 
 <div>
   Project :-
-  <li>Currency Converter</li>
+  <li>Currency Converter Using API Integration.</li>
   https://currency-converter-pranay-kolhes-projects.vercel.app/
 </div>
 
