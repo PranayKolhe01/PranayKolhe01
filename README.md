@@ -24,6 +24,12 @@
     </ul>
 </div>
 
+<div>
+  Project :-
+  <li>Currency Converter</li>
+  https://currency-converter-pranay-kolhes-projects.vercel.app/
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
