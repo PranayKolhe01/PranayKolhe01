@@ -6,7 +6,7 @@
   </div>
   <ul >
   <li>I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.</li>
-<li>I am skilled in HTML, CSS, Javascript,Reactjs,PHP. I am good in data structure and algorithms.</li>
+<li>I am skilled in HTML, CSS, Javascript,PHP. I am good in data structure and algorithms.</li>
 <li>I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</li>
 </ul>
 
